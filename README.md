@@ -1,4 +1,4 @@
-# 🛰️ AI4SDGs Space AI Solution - Hyperspectral Crop Monitoring
+# AI4SDGs Space AI Solution - Hyperspectral Crop Monitoring
 
 **Team:** Código R (Team ID: AI4SDGs-122)  
 **Track:** 3 - Hyperspectral Crop Monitoring  
